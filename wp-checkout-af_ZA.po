@@ -214,8 +214,7 @@ msgstr "Geen kron skedules beskikbaar nie of geen taak gespesifiseer nie."
 #: views/bootstrap/cart-summary.php:56 views/default/cart-summary.php:61
 #: wp-checkout.php:7220
 msgid "Subtotal"
-msgstr "Subtotaal\n"
-""
+msgstr "Subtotaal"
 
 #: helpers/html.php:388 helpers/html.php:443 helpers/html.php:515
 #: helpers/html.php:520 views/admin/orders/view.php:293
@@ -422,7 +421,7 @@ msgstr "WordPress"
 #: views/bootstrap/cart.php:285 views/default/cart.php:255
 #: wp-checkout-widget.php:8
 msgid "Checkout"
-msgstr "Kontroleer/Uittekening"
+msgstr "Betaalpunt"
 
 #: includes/currencies.php:6
 msgid "Australian Dollars"
@@ -2241,8 +2240,7 @@ msgstr "Kategorie-beeld"
 #: wp-checkout.php:7277 wp-checkout.php:7327 wp-checkout.php:7328
 #: wp-checkout.php:7329 wp-checkout.php:7330
 msgid "Yes"
-msgstr "Ja\n"
-""
+msgstr "Ja"
 
 #: views/admin/categories/save.php:20 views/admin/coupons/bulk.php:75
 #: views/admin/coupons/loop.php:149 views/admin/coupons/save.php:116
@@ -3526,7 +3524,7 @@ msgstr "Bestel"
 #: views/default/orders/confirmation.php:24 views/default/orders/view.php:164
 #: views/default/orders/view.php:175 views/email/order.php:213
 msgid "Qty"
-msgstr "Hoev"
+msgstr "Aantal"
 
 #: views/admin/items/loop.php:28 views/admin/items/loop.php:42
 #: views/admin/metaboxes/welcome/orders.php:13 views/admin/orders/loop.php:60
@@ -3673,7 +3671,7 @@ msgstr "Die ID van die bestelling waarby die item/produk gevoeg word."
 #: views/default/suppliers/order.php:181 views/email/invoice.php:197
 #: views/email/suppliers/order.php:187
 msgid "Quantity"
-msgstr "Hoeveelheid"
+msgstr "Aantal"
 
 #: views/admin/items/save.php:80
 msgid "Quantity/count for this item/product."
@@ -9606,7 +9604,7 @@ msgstr "Versending &amp; Hantering"
 #: views/default/checkout-bw.php:50 views/default/checkout-cc.php:14
 #: views/default/checkout-cu.php:17 views/default/success.php:13
 msgid "Continue Shopping"
-msgstr "Gaan voort met inkopies"
+msgstr "Gaan terug na winkel om nog produkte te koop"
 
 #: views/default/cart-summary.php:102
 msgid "View Shopping Cart &raquo;"
@@ -9635,7 +9633,7 @@ msgstr "Is jy seker jy wil hierdie afslagkoepon verwyder?"
 
 #: views/bootstrap/cart.php:284 views/default/cart.php:254
 msgid "Update Cart"
-msgstr "Opdateer mandjie"
+msgstr "Verfris mandjie"
 
 #: views/bootstrap/cart.php:284 views/default/cart.php:254
 msgid "Are you sure you want to update the quantities?"
@@ -9645,7 +9643,7 @@ msgstr "Is jy seker jy wil die hoeveelhede updateer?"
 #: views/bootstrap/widget-cart.php:169 views/default/cart.php:268
 #: views/default/widget-cart.php:154 views/default/widget-cart.php:156
 msgid "Empty Shopping Cart"
-msgstr "Leë Inkopiemandjie"
+msgstr "Maak Inkopiemandjie leeg"
 
 #: views/bootstrap/cart.php:311 views/default/cart.php:268
 msgid "Are you sure you wish to empty your shopping cart?"
@@ -9859,8 +9857,7 @@ msgstr "Vervaldatum:"
 
 #: views/bootstrap/checkout-pp_pro.php:96 views/default/checkout-pp_pro.php:96
 msgid "Card Verification Number:"
-msgstr "\n"
-"Kaart-verifikasienommer:"
+msgstr "Kaart-verifikasienommer:"
 
 #: views/bootstrap/checkout/bartercard.php:26
 #: views/default/checkout/bartercard.php:26
@@ -9978,7 +9975,7 @@ msgstr "Inlog &raquo;"
 
 #: views/bootstrap/couponform.php:5 views/default/couponform.php:5
 msgid "Apply Code"
-msgstr "Pas kode toe"
+msgstr "Kliek hier om kode te aktiveer"
 
 #: views/default/couponform.php:7
 msgid "Apply a discount coupon"
@@ -13259,8 +13256,7 @@ msgstr "Begin datum"
 
 #: views/bootstrap/contacts.php:135
 msgid "Register &raquo;"
-msgstr "Registreer &raquo; \n"
-""
+msgstr "Registreer &raquo;"
 
 #: views/bootstrap/couponform.php:4
 msgid "Enter coupon code"
